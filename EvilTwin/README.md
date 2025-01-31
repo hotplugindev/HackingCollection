@@ -1,4 +1,4 @@
-**Install aircrack-ng**
+**Install aircrack-ng and hostapd and dnsmasq**
 
 **This Evil Twin Attack clones the selected network and creates a new network with the same name.**
 
