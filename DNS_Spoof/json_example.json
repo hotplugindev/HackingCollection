@@ -1,0 +1,7 @@
+{
+
+  "target": ["example.com", "test.org"],
+
+  "ip_port": {"ip": "192.168.1.100", "port": 80}
+
+}
